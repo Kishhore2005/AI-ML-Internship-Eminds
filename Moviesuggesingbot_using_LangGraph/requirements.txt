@@ -1,0 +1,17 @@
+# Core Framework
+streamlit>=1.28.0
+langgraph>=0.0.40
+
+# API Integrations
+groq>=0.4.0
+requests>=2.31.0
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+
+# Type Hints and Utilities
+typing-extensions>=4.8.0
+
+# Optional: For enhanced features
+# pandas>=2.0.0  # For data manipulation if needed
+# numpy>=1.24.0  # For numerical operations if needed

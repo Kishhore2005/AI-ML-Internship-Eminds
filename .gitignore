@@ -1,0 +1,28 @@
+# Ignore Python bytecode
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore environment variable files
+.env
+*.env
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build outputs
+build/
+dist/
+*.egg-info/
+
+# Ignore logs and other outputs
+*.log
